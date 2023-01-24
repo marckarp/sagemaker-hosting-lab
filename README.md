@@ -55,10 +55,10 @@ If the AWS Account has been provisioned by your AWS Instructor, follow the next 
 2. Under services search for Amazon SageMaker.
 ![](https://raw.githubusercontent.com/marckarp/sagemaker-hosting-lab/main/static/services-sagemaker.png)
 
-3. Under Geting Started, click on **Control Panel**.
+3. Under Geting Started, click on **Studio**.
 ![](https://raw.githubusercontent.com/marckarp/sagemaker-hosting-lab/main/static/getting-started.png)
 
-4. A SageMaker Studio environment should already be provisioned. Click on Open Studio (on the right side of the preprovisioned sagemakeruser username).
+4. A SageMaker Studio environment should already be provisioned. Click on Open Studio (on the right side of the preprovisioned `sagemakeruser` username).
 ![](https://raw.githubusercontent.com/marckarp/sagemaker-hosting-lab/main/static/sagemaker-studio.pngg)
 
 5. You will be redirected to a new web tab that looks like this:
