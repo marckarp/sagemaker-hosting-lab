@@ -1,5 +1,3 @@
-# sagemaker-hosting-lab
-
 # Lab access steps:
 
 If you are using Event Engine follow all steps below. If you are using your own account start at [SageMaker Studio access](README.md#amazon-sagemaker-studio-access).
