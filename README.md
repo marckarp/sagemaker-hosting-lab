@@ -11,35 +11,35 @@
 # Event Engine AWS Account access
 
 Go to: [Event Engine](https://dashboard.eventengine.run/login). You will be redirected to the page below.
-![](static/intro/event-engine-main.png)
+![](https://raw.githubusercontent.com/marckarp/sagemaker-hosting-lab/main/static/event-engine-main.png)
 
 Enter the event hash you have received from your instructor.
-![](static/intro/event-engine-hash.png)
+![](https://raw.githubusercontent.com/marckarp/sagemaker-hosting-lab/main/static/event-engine-hash.png)
 
 Click on Email One-Time Password (OTP).
-![](static/intro/sign-in-with.png)
+![](https://raw.githubusercontent.com/marckarp/sagemaker-hosting-lab/main/static/sign-in-with.png)
 
 You are redirected to the following page:
-![](static/intro/enter-otp.png)
+![](https://raw.githubusercontent.com/marckarp/sagemaker-hosting-lab/main/static/enter-otp.png)
 
 Enter your email address and click on Send passcode.
-![](static/intro/enter-email.png)
+![](https://raw.githubusercontent.com/marckarp/sagemaker-hosting-lab/main/static/enter-email.png)
 
 You are redirected to the following page:
 
-![](static/intro/enter-otp-1.png)
+![](https://raw.githubusercontent.com/marckarp/sagemaker-hosting-lab/main/static/enter-otp-1.png)
 
 Check your mailbox, copy-paste the one-time password and click on Sign in.
 
-![](static/intro/otp-sent.png)
+![](https://raw.githubusercontent.com/marckarp/sagemaker-hosting-lab/main/static/otp-sent.png)
 
 You are redirected to the Team Dashboard. Click on AWS Console.
 
-![](static/intro/team-dashboard.png)
+![](https://raw.githubusercontent.com/marckarp/sagemaker-hosting-lab/main/static/team-dashboard.png)
 
 On the next screen, click on Open AWS Console.
 
-![](static/intro/open-console.png)
+![](https://raw.githubusercontent.com/marckarp/sagemaker-hosting-lab/main/static/aws-console.png)
 
 You are then redirected to the AWS Console.
 
@@ -50,26 +50,26 @@ Amazon SageMaker Studio is a web-based, integrated development environment (IDE)
 If the AWS Account has been provisioned by your AWS Instructor, follow the next steps to access the SageMaker Studio environment:
 
 1. Open AWS console and switch to AWS region communicated by your instructor.
-![](static/intro/aws-console.png)
+![](https://raw.githubusercontent.com/marckarp/sagemaker-hosting-lab/main/static/aws-console.png)
 
 2. Under services search for Amazon SageMaker.
-![](static/intro/services-sagemaker.png)
+![](https://raw.githubusercontent.com/marckarp/sagemaker-hosting-lab/main/static/services-sagemaker.png)
 
 3. Under Geting Started, click on **Control Panel**.
-![](static/intro/getting-started.png)
+![](https://raw.githubusercontent.com/marckarp/sagemaker-hosting-lab/main/static/getting-started.png)
 
 4. A SageMaker Studio environment should already be provisioned. Click on Open Studio (on the right side of the preprovisioned sagemakeruser username).
-![](static/intro/sagemaker-studio.png)
+![](https://raw.githubusercontent.com/marckarp/sagemaker-hosting-lab/main/static/sagemaker-studio.pngg)
 
 5. You will be redirected to a new web tab that looks like this:
-![](static/intro/sm-landing-page.png)
+![](https://raw.githubusercontent.com/marckarp/sagemaker-hosting-lab/main/static/sm-landing-page.png)
 
 Great!! You have successfully launched a SageMaker Studio Notebook.
 
 # Download content from GitHub repository needed for the labs
 
 1. On the landing page, click on the System Terminal 
-![](static/intro/launch-terminal.png)
+![](https://raw.githubusercontent.com/marckarp/sagemaker-hosting-lab/main/static/launch-terminal.png)
 
 2. In the terminal, type the following commands:
 ```
@@ -77,7 +77,7 @@ git clone https://github.com/marckarp/sagemaker-hosting-lab.git
 ```
 ![](static/intro/clone-code.png)
 
-3. After completion of step 2 you will have the **sagemaker-hosting** folder created in left panel of the studio:
+3. After completion of step 2 you will have the **sagemaker-hosting-lab** folder created in left panel of the studio:
 
 
 We will be making use of the Jupyter notebooks located in these folders in later labs.
