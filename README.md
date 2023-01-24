@@ -1,6 +1,8 @@
 # sagemaker-hosting-lab
 
-# Event Engine
+# Lab access steps:
+
+If you are using Event Engine follow all steps below. If you are using your own account start at [SageMaker Studio access](README.md#amazon-sagemaker-studio-access).
 
 **In this lab we will get access to an EventEngine AWS Account that we will use in the following labs. Once we have access to the AWS Account we will access SageMaker Studio and download the necessary content we will be making use of.**
 
